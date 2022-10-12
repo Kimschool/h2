@@ -1,3 +1,7 @@
+
+#1 CustomerController기본형 완성
+#2 Service구축하기
+
 필요 프로그램
 
 -postman
@@ -11,3 +15,4 @@
 필요 라이브러리
 
 h2, jpa
+
